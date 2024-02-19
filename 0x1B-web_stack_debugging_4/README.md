@@ -76,4 +76,4 @@ Percentage of the requests served within a certain time (ms)
 * Style guidelines: Puppet-lint
 ---
 ### Authors
-Melissa Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/MelissaNg__)
+Nathan Makhombe
